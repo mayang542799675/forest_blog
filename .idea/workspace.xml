@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="bjb">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,13 +178,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="jsp" value="86" />
+          <entry key="jsp" value="96" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSP" value="86" />
+          <entry key="JSP" value="96" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -206,8 +204,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="641" column="16" selection-start-line="641" selection-start-column="16" selection-end-line="641" selection-end-column="16" />
+            <state relative-caret-position="144">
+              <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -614,7 +612,7 @@
       <workItem from="1573013221521" duration="248000" />
       <workItem from="1573014366169" duration="893000" />
       <workItem from="1573019376634" duration="624000" />
-      <workItem from="1573020090589" duration="228000" />
+      <workItem from="1573020090589" duration="1009000" />
     </task>
     <task id="LOCAL-00001" summary="bjb">
       <created>1573014485029</created>
@@ -630,11 +628,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573019412443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bjb">
+      <created>1573020501880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573020501880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284460000" />
+    <option name="totallyTimeSpent" value="285241000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,7 +651,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1386" height="735" extended-state="0" />
+    <frame x="0" y="0" width="1386" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.23227753" />
@@ -665,10 +670,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32733223" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" weight="0.31281197" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007542" side_tool="true" weight="0.3294509" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49924585" visible="true" weight="0.3294509" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32733223" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32569557" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49848714" weight="0.400982" />
@@ -978,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="641" column="16" selection-start-line="641" selection-start-column="16" selection-end-line="641" selection-end-column="16" />
+        <state relative-caret-position="144">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
         </state>
       </provider>
     </entry>
