@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ForestBlog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ForestBlog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ForestBlog-1.0.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -184,8 +180,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="639" column="41" selection-start-line="639" selection-start-column="41" selection-end-line="639" selection-end-column="41" />
+            <state relative-caret-position="166">
+              <caret line="635" column="72" lean-forward="true" selection-start-line="635" selection-start-column="72" selection-end-line="635" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -354,9 +350,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -384,6 +377,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -620,7 +616,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283157000" />
+    <option name="totallyTimeSpent" value="283162000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -635,7 +631,7 @@
     <frame x="40" y="0" width="1868" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.26825222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.27378318" />
       <window_info id="Structure" order="1" sideWeight="0.50373137" side_tool="true" weight="0.23187633" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -703,7 +699,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsada" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsada" />
+    <MESSAGE value="tsj git" />
+    <option name="LAST_COMMIT_MESSAGE" value="tsj git" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -990,8 +987,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="639" column="41" selection-start-line="639" selection-start-column="41" selection-end-line="639" selection-end-column="41" />
+        <state relative-caret-position="166">
+          <caret line="635" column="72" lean-forward="true" selection-start-line="635" selection-start-column="72" selection-end-line="635" selection-end-column="72" />
         </state>
       </provider>
     </entry>
