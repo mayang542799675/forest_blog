@@ -9,6 +9,7 @@
     <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ForestBlog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ForestBlog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +72,7 @@
     <session id="820287958">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="63" />
+          <entry key="project.closed" value="64" />
           <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="6" />
@@ -149,7 +150,7 @@
           <entry key="java" value="759" />
           <entry key="js" value="80" />
           <entry key="json" value="67" />
-          <entry key="jsp" value="1592" />
+          <entry key="jsp" value="1621" />
           <entry key="properties" value="111" />
           <entry key="txt" value="5" />
           <entry key="xml" value="62" />
@@ -160,7 +161,7 @@
           <entry key="CSS" value="54" />
           <entry key="JAVA" value="759" />
           <entry key="JSON" value="67" />
-          <entry key="JSP" value="1590" />
+          <entry key="JSP" value="1619" />
           <entry key="JavaScript" value="80" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="111" />
@@ -183,8 +184,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="803">
-              <caret line="633" column="26" selection-start-line="633" selection-start-column="26" selection-end-line="633" selection-end-column="26" />
+            <state relative-caret-position="232">
+              <caret line="633" column="37" selection-start-line="633" selection-start-column="37" selection-end-line="633" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -568,7 +569,7 @@
       <workItem from="1572252956408" duration="769000" />
       <workItem from="1572336829894" duration="3547000" />
       <workItem from="1572934525843" duration="2554000" />
-      <workItem from="1573009868022" duration="698000" />
+      <workItem from="1573009868022" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="dsada">
       <created>1573009981865</created>
@@ -577,11 +578,25 @@
       <option name="project" value="LOCAL" />
       <updated>1573009981865</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dsada">
+      <created>1573010779586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573010779586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dsada">
+      <created>1573010886164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573010886164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282247000" />
+    <option name="totallyTimeSpent" value="282990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,10 +608,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="0" width="1868" height="1034" extended-state="1" />
+    <frame x="40" y="0" width="1868" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.26548672" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.26548672" />
       <window_info id="Structure" order="1" sideWeight="0.50373137" side_tool="true" weight="0.23187633" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -615,7 +630,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50151974" side_tool="true" weight="0.6233766" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32963374" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32843137" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32718122" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49923548" weight="0.30411255" />
@@ -632,6 +647,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -925,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="633" column="26" selection-start-line="633" selection-start-column="26" selection-end-line="633" selection-end-column="26" />
+        <state relative-caret-position="232">
+          <caret line="633" column="37" selection-start-line="633" selection-start-column="37" selection-end-line="633" selection-end-column="37" />
         </state>
       </provider>
     </entry>
