@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="" />
+    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="bjb">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,21 +171,22 @@
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="jsp" value="51" />
+          <entry key="jsp" value="70" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSP" value="51" />
+          <entry key="JSP" value="70" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -203,8 +206,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="653" column="56" selection-start-line="653" selection-start-column="56" selection-end-line="653" selection-end-column="56" />
+            <state relative-caret-position="144">
+              <caret line="642" column="19" selection-start-line="642" selection-start-column="19" selection-end-line="642" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -383,7 +386,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -400,8 +402,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -611,6 +614,7 @@
       <workItem from="1573013221521" duration="248000" />
       <workItem from="1573014366169" duration="893000" />
       <workItem from="1573019376634" duration="624000" />
+      <workItem from="1573020090589" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="bjb">
       <created>1573014485029</created>
@@ -630,7 +634,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284232000" />
+    <option name="totallyTimeSpent" value="284415000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -645,7 +649,7 @@
     <frame x="0" y="0" width="1386" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.22850679" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.23227753" />
       <window_info id="Structure" order="1" sideWeight="0.50373137" side_tool="true" weight="0.23187633" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -661,7 +665,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32733223" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" visible="true" weight="0.1264559" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" weight="0.31281197" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -974,8 +978,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="653" column="56" selection-start-line="653" selection-start-column="56" selection-end-line="653" selection-end-column="56" />
+        <state relative-caret-position="144">
+          <caret line="642" column="19" selection-start-line="642" selection-start-column="19" selection-end-line="642" selection-end-column="19" />
         </state>
       </provider>
     </entry>
