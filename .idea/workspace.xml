@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="" />
+    <list default="true" id="19a4d977-5495-416a-87f3-0078bb55ba1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForestBlog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ForestBlog.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,7 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.3" value="7" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.36" value="1" />
@@ -98,7 +101,7 @@
           <entry key="project.open.time.82" value="1" />
           <entry key="project.open.time.84" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="70" />
+          <entry key="project.opened" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -146,8 +149,9 @@
           <entry key="java" value="759" />
           <entry key="js" value="80" />
           <entry key="json" value="67" />
-          <entry key="jsp" value="1583" />
+          <entry key="jsp" value="1592" />
           <entry key="properties" value="111" />
+          <entry key="txt" value="5" />
           <entry key="xml" value="62" />
         </counts>
       </usages-collector>
@@ -156,8 +160,9 @@
           <entry key="CSS" value="54" />
           <entry key="JAVA" value="759" />
           <entry key="JSON" value="67" />
-          <entry key="JSP" value="1581" />
+          <entry key="JSP" value="1590" />
           <entry key="JavaScript" value="80" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="111" />
           <entry key="XML" value="62" />
         </counts>
@@ -178,8 +183,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="612" column="56" lean-forward="true" selection-start-line="612" selection-start-column="56" selection-end-line="612" selection-end-column="56" />
+            <state relative-caret-position="803">
+              <caret line="633" column="26" selection-start-line="633" selection-start-column="26" selection-end-line="633" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -348,6 +353,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -359,9 +367,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -563,11 +568,20 @@
       <workItem from="1572252956408" duration="769000" />
       <workItem from="1572336829894" duration="3547000" />
       <workItem from="1572934525843" duration="2554000" />
+      <workItem from="1573009868022" duration="698000" />
     </task>
+    <task id="LOCAL-00001" summary="dsada">
+      <created>1573009981865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573009981865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="281549000" />
+    <option name="totallyTimeSpent" value="282247000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -579,10 +593,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="0" width="1868" height="1034" extended-state="0" />
+    <frame x="40" y="0" width="1868" height="1034" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.26272124" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49626866" visible="true" weight="0.26548672" />
       <window_info id="Structure" order="1" sideWeight="0.50373137" side_tool="true" weight="0.23187633" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -621,6 +635,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dsada" />
+    <option name="LAST_COMMIT_MESSAGE" value="dsada" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -907,8 +925,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="612" column="56" lean-forward="true" selection-start-line="612" selection-start-column="56" selection-end-line="612" selection-end-column="56" />
+        <state relative-caret-position="803">
+          <caret line="633" column="26" selection-start-line="633" selection-start-column="26" selection-end-line="633" selection-end-column="26" />
         </state>
       </provider>
     </entry>
