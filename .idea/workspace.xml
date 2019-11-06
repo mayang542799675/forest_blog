@@ -180,13 +180,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="jsp" value="70" />
+          <entry key="jsp" value="86" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSP" value="70" />
+          <entry key="JSP" value="86" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -206,8 +206,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="642" column="19" selection-start-line="642" selection-start-column="19" selection-end-line="642" selection-end-column="19" />
+            <state relative-caret-position="120">
+              <caret line="641" column="16" selection-start-line="641" selection-start-column="16" selection-end-line="641" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -614,7 +614,7 @@
       <workItem from="1573013221521" duration="248000" />
       <workItem from="1573014366169" duration="893000" />
       <workItem from="1573019376634" duration="624000" />
-      <workItem from="1573020090589" duration="183000" />
+      <workItem from="1573020090589" duration="228000" />
     </task>
     <task id="LOCAL-00001" summary="bjb">
       <created>1573014485029</created>
@@ -634,7 +634,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284415000" />
+    <option name="totallyTimeSpent" value="284460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -978,8 +978,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Home/Public/part/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="642" column="19" selection-start-line="642" selection-start-column="19" selection-end-line="642" selection-end-column="19" />
+        <state relative-caret-position="120">
+          <caret line="641" column="16" selection-start-line="641" selection-start-column="16" selection-end-line="641" selection-end-column="16" />
         </state>
       </provider>
     </entry>
